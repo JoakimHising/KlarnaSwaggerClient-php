@@ -20,11 +20,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "http://github.com/GIT_USER_ID/GIT_REPO_ID.git"
+      "url": "http://github.com/Johke/KlarnaSwaggerClient-php.git"
     }
   ],
   "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
+    "Johke/KlarnaSwaggerClient-php": "*@dev"
   }
 }
 ```
